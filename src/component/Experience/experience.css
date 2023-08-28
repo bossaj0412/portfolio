@@ -1,0 +1,40 @@
+.exp_container{
+    background-color: teal;
+
+    border-radius: 56px 56px 56px 56px;
+-webkit-border-radius: 56px 56px 56px 56px;
+-moz-border-radius: 56px 56px 56px 56px;
+display: flex;
+flex-direction: column; 
+width: 80vw;
+height: auto;
+}
+
+.exp_box_container{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.position_name{
+    background-color: slateblue;
+}
+
+.company{
+    background-color: yellowgreen;
+}
+
+.company_logo{
+    background-color: yellow;
+}
+.company_name{
+    background-color: wheat;
+}
+
+.discreption{
+    background-color: tomato;
+}
+
+.skill_used{
+    background-color: slategrey;
+}
